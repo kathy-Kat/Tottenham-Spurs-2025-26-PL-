@@ -1,6 +1,5 @@
 # ⚽Tottenham-23-24-Performance-Dashboard
 A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance, financial overview, player attributes, and positional statistics for the Premier League season (Aug 2025 – Apr 2026).
-
 <br>
 
 ## 📊 Project Overview
@@ -45,7 +44,7 @@ It provides insights into:
 **👥 Squad Analysis**
 - Age distribution of players
 - Nationality breakdown
-_Player filtering by:_
+<pr> _Player filtering by:_ <pr>
   - Position
   - Age
   - Preferred foot
