@@ -44,7 +44,7 @@ It provides insights into:
 **👥 Squad Analysis**
 - Age distribution of players
 - Nationality breakdown
-<pr> _Player filtering by:_ <pr>
+<p> _Player filtering by:_ <p/>
   - Position
   - Age
   - Preferred foot
