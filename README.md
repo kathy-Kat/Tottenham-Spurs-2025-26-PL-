@@ -5,7 +5,7 @@ A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squa
 ## 📊 Project Overview
 
 This dashboard was built to explore football analytics through data visualization using Power BI.
-It provides insights into:
+<em><p>It provides insights into:<p></em>
 - Squad market value
 - Player salary distribution
 - Goal contributions
@@ -26,6 +26,8 @@ It provides insights into:
 ## 🖼 Dashboard Preview
 <br>
 
+<img width="1259" height="723" alt="image" src="https://github.com/user-attachments/assets/cbe261f6-694e-432c-8498-5e0687f99ec1" />
+<br>
 
 ## 🔍 Key Features
 
