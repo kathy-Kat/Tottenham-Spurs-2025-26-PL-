@@ -50,9 +50,9 @@ This dashboard was built to explore football analytics through data visualizatio
   - Position
   - Age
   - Preferred foot
- 
-📥 Installation & Usage
-Donwload the Power BI file from the repository.
-Open the .pbix file using Power BI Desktop.
-Refresh the dataset if required.
-Explore the dashboard using available filters and slicers.
+
+## 📥 Installation & Usage
+- Donwload the Power BI file from the repository.
+- Open the .pbix file using Power BI Desktop.
+- Refresh the dataset if required.
+- Explore the dashboard using available filters and slicers.
