@@ -1,11 +1,11 @@
 # ⚽Tottenham Hotspurs 2025/26 Season Performance
-A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance, financial overview, player attributes, and positional statistics for the Premier League season (Aug 2025 – Apr 2026).
+A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance, financial overview, player attributes, and positional statistics for the Premier League season 2025/26
 <br>
 
 ## 📊 Project Overview
 
-This dashboard was built to explore football analytics through data visualization using Power BI.
-### _It provides insights into:_
+This dashboard will explore football analytics through data visualization using Power BI.
+### _It will provide insights into:_
 - Squad market value
 - Player salary distribution
 - Goal contributions
@@ -26,30 +26,17 @@ This dashboard was built to explore football analytics through data visualizatio
 ## 🖼 Dashboard Preview
 <br>
 
-<img width="1259" height="723" alt="image" src="https://github.com/user-attachments/assets/cbe261f6-694e-432c-8498-5e0687f99ec1" />
+COMING SOON!!! 
+
 <br>
 
 ## 🔍 Key Features
 
-**💰 Financial Insights**
-- Total Market Value (€648M)
-- Gross Salary Per Year (€105M)
-- Market value comparison by position
-<br>
+- 💰 Financial Insights
+- 📈 Performance Analytics
+- 👥 Squad Analysis
 
-**⚽ Performance Analytics**
-- Goals vs Assists contribution
-- Goals scored by playing position
-- EA Sports player rating trends
 <br>
-
-**👥 Squad Analysis**
-- Age distribution of players
-- Nationality breakdown
-- <em><p> Player filtering by: <p/></em>
-  - Position
-  - Age
-  - Preferred foot
 
 ## 📥 Installation & Usage
 - Donwload the Power BI file from the repository.
