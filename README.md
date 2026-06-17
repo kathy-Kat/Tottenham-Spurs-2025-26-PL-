@@ -1,5 +1,6 @@
 # ⚽Tottenham Hotspurs 2025/26 Season Performance
 A modern and interactive Power BI dashboard analyzing Tottenham Hotspur’s squad performance, financial overview, player attributes, and positional statistics for the Premier League season 2025/26
+
 <br>
 
 ## 📊 Project Overview
