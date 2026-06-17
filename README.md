@@ -15,7 +15,7 @@ This dashboard will explore football analytics through data visualization using 
 - Position-based analysis
 <br>
 
-## The project demonstrates skills in:
+## 🛠️ The project demonstrates skills in:
 - Data cleaning
 - Data modeling
 - DAX calculations
